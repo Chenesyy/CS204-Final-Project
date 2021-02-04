@@ -1,0 +1,3 @@
+Carbonara Chicken_Alfredo Spaghetti Aglio_Olio Tuna_Pesto Lasagna Macaroni_and_Cheese Chow_Mien Wanton_Noodles Beef_Noodles Dumpling_Noodles Beef-Dumpling_Noodles Stir-Fry_Noodles Beef_Hofan Tonkotsu_Ramen Seafood_Ramen Shoyu_Ramen Miso_Ramen Hokkaido_Ramen Gomoku_Ramen Jap_Chae_Noodles Jajangmyeon Gochujang_Noodles Tteokbokki Kalguksu
+4 7 1 3 2 10 1 3 6 8 5 6 10 9 7 10 4 2 6 9 5 1 6 8 5
+200 500 50 350 300 550 150 250 450 600 650 400 700 750 850 950 1000 1050 1100 800 1150 1200 1250 900 1300
